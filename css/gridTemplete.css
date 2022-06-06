@@ -1,0 +1,38 @@
+.wrapper {
+  /*    min-height: 100%;
+    */
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto 1fr auto;
+  grid-template-areas: 
+    'header header'
+    'main main'
+    'footer footer';
+    /* border: 1px solid red; */
+}
+.header {
+  grid-area: header;
+}
+.footer {
+  grid-area: footer;
+  
+}
+.main {
+  grid-area: main;
+}
+.main__container{
+  display: grid;
+  margin: 0 auto;
+  max-width: 1400px; 
+
+}
+.header__container {
+  margin: 0 auto;
+  max-width: 1400px;
+}
+
+.footer__content {
+  /* display: grid; */
+  margin: 0 auto;
+  max-width: 1400px;
+}

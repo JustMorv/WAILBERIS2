@@ -1,0 +1,62 @@
+[
+    {
+        "id": "001",
+        "img": "img/product/001-",
+        "title": "Wrangler / Джинсы ",
+        "brend": "Wrangler",
+        "price": "60 300 тг.",
+        "category":"xits",
+        "sos":" хлопок 98%, эластан 2%"
+
+    },
+    {
+        "id": "002",
+        "img": "img/product/002-",
+        "title": "Wrangler / Джинсы TEXAS STRETCH",
+        "brend": "Wrangler",
+        "price": "74 300 тг.",
+        "category":"xits",
+        "sos":"хлопок 98%, эластан 2%",
+        "search" : "мужские Джинсы"
+    },
+    {
+        "id": "003",
+        "img": "img/product/003-",
+        "title": "TOM TAILOR / Джинсы Marvin Straight",
+        "brend": "TOM TAILOR",
+        "price": "33 500 тг.",
+        "category":"xits",
+        "sos":"хлопок, эластан, полиэстер"
+    },
+{
+        "id": "004",
+        "img": "img/product/001-",
+        "title": "Wrangler / Джинсы ",
+        "brend": "Wrangler",
+        "price": "60 300 тг.",
+        "category":"xits",
+        "sos":" хлопок 98%, эластан 2%"
+
+    },
+    {
+        "id": "005",
+        "img": "img/product/002-",
+        "title": "Wrangler / Джинсы TEXAS STRETCH",
+        "brend": "Wrangler",
+        "price": "74 300 тг.",
+        "category":"xits",
+        "sos":"хлопок 98%, эластан 2%"
+    },
+    {
+        "id": "005",
+        "img": "img/product/003-",
+        "title": "TOM TAILOR / Джинсы Marvin Straight",
+        "brend": "TOM TAILOR",
+        "price": "33 500 тг.",
+        "category":"xits",
+        "sos":"хлопок, эластан, полиэстер"
+    }
+
+
+
+]
